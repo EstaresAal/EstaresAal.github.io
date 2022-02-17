@@ -1,5 +1,8 @@
-## Fancy and I welcome you here!
+## Fancy Morning and I welcome you here!
 This is owned by Aaliyah Estares.
+
+### How to be a hotdog
+As you all know. I-Aaliyah Venizze Estares is an understatement of wanting to a hotdog? And I want to ask this... Are you all tired of being the so-called human and become a hotdog? Don't worry, _hindi ka lang nag-iisa_ because 99% of my life I just want to be a hotdog in a freezer. Pero.... paano? Simple you think that you want to be a hotdog and boom! You're a hotdog like me. :)
 
 You can use the [editor on GitHub](https://github.com/EstaresAal/EstaresAal.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
