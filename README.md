@@ -3,6 +3,7 @@ Welcome to another blog! My name is Aaliyah Venizze Estares, a self-taught artis
 
 ### 1. Practice Foundational Skills
 ![The Girl with The Pearl Earring by Vincent Van Gough](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/270px-1665_Girl_with_a_Pearl_Earring.jpg)
+```
 
 Beginner artists frequently overlook the importance of practicing foundational skills such as how the face works in order to draw the face. Basically, I'm saying that you should know the rules before breaking them.
 
