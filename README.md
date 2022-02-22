@@ -2,14 +2,14 @@
 Welcome to another blog! My name is Aaliyah Venizze Estares, a self-taught artist with lots of things to learn when it comes to art, and for today I'll be giving you tips on how to essentially become at art. I manage to get this so-called tips from my experience of doing art, and hopefully it helps you with your art journey! 
 
 ### 1. Practice Foundational Skills
-![foundational skills in art](https://images.app.goo.gl/UwYeWy8VkX4CHEp99)
+![foundational skills in art](https://images.app.goo.gl/UwYeWy8VkX4CHEp99.jpg)
 
 Beginner artists frequently overlook the importance of practicing foundational skills such as how the face works in order to draw the face. Basically, I'm saying that you should know the rules before breaking them.
 
 However, practicing foundational skills is a broad topic that I cannot fully explain in this blog, so I recommend that you watch art tutorial videos of your choice on YouTube to learn and practice foundational skills in art.
 
 ### 2. Observe other artists
-![Toilet Bound Hanako Kun](https://images.app.goo.gl/B877PuW6AVQ6jU5u8)
+![Toilet Bound Hanako Kun](https://images.app.goo.gl/B877PuW6AVQ6jU5u8.jpg)
 
 Do you have a favorite artist? Then you're in for a treat! Simply scroll through your favorite artist's Facebook, Twitter, Instagram, or any other social media platforms and observe what you like about their style. *What did they do to accomplish this?*
 
