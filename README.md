@@ -23,4 +23,3 @@ Heck! You can even compare your 3rd grade art to the art you create now instead 
 
 
 To conclude, I'd like to emphasize that art is a journey, not a destination. I say this because I've seen Art Gods who create masterpieces but are still dissatisfied with their work. So, don't give up on art, and keep doing it because you enjoy it! :)
-
