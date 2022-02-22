@@ -10,6 +10,7 @@ However, practicing foundational skills is a broad topic that I cannot fully exp
 
 ### 2. Observe other artists
 ![Steven Universe](https://i.pinimg.com/564x/dc/23/fe/dc23fef40c2ce55da2b78215aa69f8e7.jpg)
+
 Do you have a favorite artist? Then you're in for a treat! Simply scroll through your favorite artist's Facebook, Twitter, Instagram, or any other social media platforms or if your favorite artist is a well-known artist that contributed to the world just simply seach his/her name up the net and observe what you like about their style. *What did they do to accomplish this?*
 
 Now, I believe it's okay to have a favorite artist and use them as inspiration in your own work, but do not go so far as to compare your own ("bad") work to theirs. It will simply discourage you from learning, and remember that the artists you admire went through a phase where they didn't know anything about art at all, which means they improved their way to that level, and so can you!
@@ -23,6 +24,7 @@ Heck! You can even compare your 3rd grade art to the art you create now instead 
 
 ### 4. Use references!
 ![Reference girl](https://i.pinimg.com/564x/b7/9d/2a/b79d2adc3cfc7fecec8da1e24066563d.jpg)
+
 Using references is a significant improvement you can make to your art. Contrary to what some artists claim, this is not considered cheating. In fact, because references are usually taken from real life, it helps you visualize things more clearly.
 
 For example, if you're having trouble deciding on a design for one of my characters, simply search "Clothing Ideas" on Google and Pinterest and voila! You have a wide range of design ideas for your character. It is more efficient than to just sit at your desk and forcing your mind to come up with a design. What I mean is, don't be lazy and look up references! It's free, and it'll save you a lot of time!
