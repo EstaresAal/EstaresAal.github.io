@@ -1,4 +1,5 @@
 ## Fancy Morning and I welcome you here!
+[![Uploading image.png…](url)
 I am Aaliyah Estares and I will take about things I am well.... interested in talking about, so buckle up because this is about to get interesting. (_cringes at myself_)
 
 ### 1. How to be a hotdog
