@@ -1,45 +1,26 @@
-## Fancy Morning and I welcome you here!
-[![Uploading image.png…](url)
+## How to become better in Art
+Welcome to another blog! My name is Aaliyah Venizze Estares, a self-taught artist with lots of things to learn when it comes to art, and for today I'll be giving you tips on how to essentially become at art. I manage to get this so-called tips from my experience of doing art, and hopefully it helps you with your art journey! 
 
-I am Aaliyah Estares and I will take about things I am well.... interested in talking about, so buckle up because this is about to get interesting. (_cringes at myself_)
+### 1. Practice Foundational Skills
+![Foundational Skills](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdiyartschool.org%2Ffoundation-art-skills-a-beginners-guide-to-diy-art-lessons%2F&psig=AOvVaw2nCJxcC1GUscEdWylVdsC5&ust=1645590856497000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjv1ei9kvYCFQAAAAAdAAAAABAD)
 
-### 1. How to be a hotdog
-As you all know. I-Aaliyah Venizze Estares is an understatement of wanting to a hotdog? And I want to ask this... Are you all tired of being the so-called human and become a hotdog? Don't worry, _hindi ka lang nag-iisa_ because 99% of my life I just want to be a hotdog in a freezer. Pero.... paano? Simple you think that you want to be a hotdog and boom! You're a hotdog like me. :)
+Beginner artists frequently overlook the importance of practicing foundational skills such as how the face works in order to draw the face. Basically, I'm saying that you should know the rules before breaking them.
 
-### 2. Paano mawala ang problems
-Simple. Gunawa ka ng mas maraming problems para mawala yung unang problem na yun. Gaya sa math may tinatawag na cancelling, sa problema mo - puwede mo siya ma-cancel which is by adding more problems!
+However, practicing foundational skills is a broad topic that I cannot fully explain in this blog, so I recommend that you watch art tutorial videos of your choice on YouTube to learn and practice foundational skills in art.
 
-### 3. Paano hindi mahirapan sa module
-Simple. Magpagawa ka sa iba. Yun tapos ka na. :)
+### 2. Observe other artists
+![Art from the manga Toilet-Bound Hanako-Kun](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F743727325953738835%2F&psig=AOvVaw2u9yMi706wEjPj1nVDV2-k&ust=1645591009259000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKCVv7C-kvYCFQAAAAAdAAAAABAD)
 
-### Markdown
+Do you have a favorite artist? Then you're in for a treat! Simply scroll through your favorite artist's Facebook, Twitter, Instagram, or any other social media platforms and observe what you like about their style. *What did they do to accomplish this?*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Now, I believe it's okay to have a favorite artist and use them as inspiration in your own work, but do not go so far as to compare your own ("bad") work to theirs. It will simply discourage you from learning, and remember that the artists you admire went through a phase where they didn't know anything about art at all, which means they improved their way to that level, and so can you!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### 3. Redraw your older artworks
+Another suggestion I have is to redraw your older artworks. At times, it appears as if *Oh! I'm not getting any better!* And don't get discouraged, because improvement isn't linear, and you won't notice your improvement in your art if you don't redraw your older pieces.
 
-- Bulleted
-- List
+Heck! You can even compare your 3rd grade art to the art you create now instead of redrawing it! Basically, I'm saying that seeing your progress can help you feel like *Hey! My art isn't so bad after all* and you can use it to help you improve.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+To conclude, I'd like to emphasize that art is a journey, not a destination. I say this because I've seen Art Gods who create masterpieces but are still dissatisfied with their work. So, don't give up on art, and keep doing it because you enjoy it! :)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EstaresAal/EstaresAal.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
